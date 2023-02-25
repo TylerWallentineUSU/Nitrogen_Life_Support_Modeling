@@ -5,3 +5,4 @@ This repository contains two codes that utilize the same model to perform two di
 [1] Regiment_Compare.py: Compares five different nitrogen management regiments given the conditions specified by the user at the start of the code.
 [2] Sensitivity_Analysis.py: Analyzes a single variable in the code, as specified by the user, and its effect on the overall system at varying efficiencies and performances.
 
+This repository also contains two versions of the same Excel spreadsheet in which macros are or are not enabled. Macros are not required for the model calculations to be done correctly but simply serve to make the program more user-friendly.
